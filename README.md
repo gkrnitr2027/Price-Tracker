@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Playwright-Web%20Scraping-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite"/>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/>
 
 <br><br>
 
