@@ -165,7 +165,7 @@ Power BI Dashboard
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Price-Tracker.git
+git clone https://github.com/gkrnitr2027/Price-Tracker.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -210,22 +210,6 @@ Home → Refresh
 - 🗄 MySQL Integration
 - 📈 Historical Trend Analysis
 - 📊 Advanced Business Analytics
-
----
-
-# 👨‍💻 Author
-
-**Saurabh Shivkriti**
-
-📧 saurabhshivkriti@gmail.com
-
-💼 Aspiring Data Analyst
-
-🔗 LinkedIn: https://in.linkedin.com/in/saurabh-shivkriti
-
-🌐 Portfolio: https://saurabbhshivkriti.in/
-
----
 
 <div align="center">
 
