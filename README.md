@@ -15,8 +15,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=datawithsaurabh&label=Repository+Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -33,7 +31,7 @@ The dashboard enables users to compare prices across platforms, identify the che
 
 <div align="center">
 
-<img src="Price-Tracker/screenshots/dashboard.png" width="1000"/>
+<img src="screenshots/dashboard.png" width="1000"/>
 
 </div>
 
